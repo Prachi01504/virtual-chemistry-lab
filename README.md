@@ -59,3 +59,5 @@ virtual-chem-lab-project/
 │ ├── mix.js # Experiment-specific JS logic
 │
 │── README.md / README.txt # Project documentation
+
+
